@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Android, jetpack, Java, Kotlin, Compose**
 
-- 👨‍💻 All of my projects are available at [shekhobaba.com](shekhobaba.com)
+<!-- - 👨‍💻 All of my projects are available at [shekhobaba.com](shekhobaba.com) -->
 
 - 📝 I regularly write articles on [https://medium.com/@muhammadtauheed7]([shekhobaba.com](https://medium.com/@muhammadtauheed7))
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **muhammadtauheed7@gmail.com**
 
-- 📄 Know about my experiences [shekhobaba.com](shekhobaba.com)
+<!-- - 📄 Know about my experiences [shekhobaba.com](shekhobaba.com) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
